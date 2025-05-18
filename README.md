@@ -22,5 +22,4 @@
 
 </div>
 
-+ zPrestige - making this cheat
-+ Z_RUSSIA_V - cracking / making server emulator
+DangerMario AKA WraithMC
